@@ -1,4 +1,4 @@
-In this Projectwe developed Regressors Model to predict compressional and shear travel-time logs, DTC and DTS using following regression techniques: Elastic Net; K Nearest Neighbor; Random Forest; Gradient Boosting; Support 
+In this Project we developed Regressors Model to predict compressional and shear travel-time logs, DTC and DTS using following regression techniques: Elastic Net; K Nearest Neighbor; Random Forest; Gradient Boosting; Support 
 Vector Machines.
 
 Background
